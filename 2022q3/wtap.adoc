@@ -1,0 +1,10 @@
+=== wtap(4) status update
+
+Contact: En-Wei Wu <enweiwu@FreeBSD.org>
+
+wtap(4) is a Wi-Fi simulator, which originally supports 802.11s mesh mode. During period of 2022 Google Summer of Code, I have brought sta/hostap/adhoc/monitor mode to it. And also, test scripts is already written in ath-sh(3) framework, which can be used to test net80211 stack.
+
+For more details, please click the link below and you will be able to see the patches.
+
+Link: +
+link:https://wiki.freebsd.org/SummerOfCode2022Projects/AddStaHostapAndAdhocModeToWtapWlanSimulator[SummerOfCode2022Projects]
